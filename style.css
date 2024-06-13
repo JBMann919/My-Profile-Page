@@ -11,9 +11,8 @@ h2 {
     color: darkcyan;
 }
 
-body {
-    background-color: darkslategray;
-}
+
+
 
 .styleli{
     color: chartreuse;
@@ -54,4 +53,13 @@ body {
     padding: 10px 20px;
     border: crimson;
     cursor: pointer;
+}
+
+.images{
+    width: 325px;
+    height: 350px;
+}
+
+.gradient{
+    background: linear-gradient(to right, aquamarine, blue, darkblue);
 }
