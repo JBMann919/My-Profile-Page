@@ -47,3 +47,11 @@ body {
     font-weight: 300;
     font-size: 18px;
 }
+
+.my-button{
+    background-color: blue;
+    color: chocolate;
+    padding: 10px 20px;
+    border: crimson;
+    cursor: pointer;
+}
