@@ -1,0 +1,49 @@
+h1 {
+    color: rgb(16, 161, 245);
+    text-align: center;
+}
+
+p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
+h2 {
+    color: darkcyan;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+.styleli{
+    color: chartreuse;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.goodli{
+    color: aqua;
+    font-weight: 300;
+    font-size: 18px;
+}
+.secondli{
+    color: blue;
+    font-weight: 300;
+    font-size: 18px;
+}
+.thirdli{
+    color: brown;
+    font-weight: 300;
+    font-size: 18px;
+}
+.fourthli{
+    color: blueviolet;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.fifthli{
+    color: darkblue;
+    font-weight: 300;
+    font-size: 18px;
+}
